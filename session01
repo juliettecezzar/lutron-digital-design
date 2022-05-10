@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+  <meta charset="utf-8">
+  <title>Session 1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body id="home">
+
+    <h1>Session 1: Design, Color, Typography</h1>
+  
+What is Digital Design?
+Introduction, laying out questions on principles and process
+Objective: Understand the scope of the digital design training
+
+Lecture:
+
+<li>What is digital design in 2022?</li>
+
+<ul>The joys of having this conversation, going beyond "print on screen"</ul>
+
+A very short history of graphic design, web design, UX design, digital product design, architecture and industrial design
+
+What is digital design here?
+
+Designers, project managers, leadership, marketing teams all have to develop a common language
+
+All the creative has to translate across print, social, email, display advertising, website, mobile web
+
+Overlaps with digital marketing, design of products
+
+Research and iteration are the real engine
+
+Research and iteration evolve the framework for decisions
+
+Design tools
+
+Different design scales and outputs: form follows tools, form follows hardware
+
+Who is responsible for the design, and what is being decided?
+
+Color in the digital space
+A new world of color
+Objective: Understand how color is thought about and handled differently in digital design
+
+Lecture:
+
+Why we pick certain colors
+
+Color is relative "There is no such thing as color, only the interaction of color" (Albers)
+
+Understanding color relationships
+
+Color identification, transparency
+
+The associative nature of color
+
+Color models
+
+CMYK, RGB, HEX, HSB/HSL
+
+Color in CSS, Sketch, Figma
+
+Color in design systems, tokens
+
+Color and accessibility / user control
+
+Contrast as first principle
+
+"Dark mode," "Night shift," and other device-level considerations
+
+Typography (fixed to fluid)
+Why the form of type matters, why spacing matters
+Objective: Understand how much typography matters in context, what you can and can't control in digital design
+
+Lecture:
+
+Why typography matters more than anything else, why are we spending so much time on it
+
+Form of type: Holding your own under the stress of different form factors
+
+Identity: What am I even looking at
+
+Brief history of type on the web
+
+Type limitations and considerations of email, mobile web
+
+The space of type: Typesetting and usability
+
+Proximity and hierarchy in digital design
+
+Mobile and email specific considerations
+
+Flow to different form factors
+
+Understanding things proportionally rather than in absolute terms
+
+What is an em, how does this all get coded
+
+Typesetting and accessibility
+
+Typesetting and design systems
+
+</body>
+</html>
