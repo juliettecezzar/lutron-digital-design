@@ -69,7 +69,7 @@ li {
 
 .right-col {
   float: left;
-  width: 70%;
+  width: 50%;
   min-height: 100vh;
   padding: 1.6%;
   border-left: 1px solid black;
